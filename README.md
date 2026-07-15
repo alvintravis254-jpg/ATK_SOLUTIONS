@@ -39,8 +39,70 @@ End result was his CV moved from describing a responsibility to one that marks h
 
 Currently, he has a full time remote job. 
 
-Need to get your CV transformed today?
+# Case Study 01
 
-Email: alvintravis257@gmail.com
+## Objective
 
-Call/Whatsapp: +254710283834
+Transform a generic student CV into an interview-ready marketing resume.
+
+---
+
+## Target Role
+
+Marketing Internship
+
+---
+
+## Challenges
+
+The original CV had:
+
+- Generic responsibilities
+- Limited measurable impact
+- Weak professional summary
+- Little ATS optimisation
+
+---
+
+## Strategy
+
+I focused on:
+
+- Rewriting bullet points
+- Improving readability
+- Better section hierarchy
+- Stronger professional summary
+- Marketing-specific keywords
+
+---
+
+# Original Submission
+
+(original-cv.pdf)
+
+---
+
+# Interview-Ready Version
+
+(interview-ready-cv.pdf)
+
+---
+
+## Key Improvements
+
+| Before | After |
+|---------|--------|
+| Responsibilities | Achievements |
+| Weak summary | Professional positioning |
+| Basic formatting | ATS-friendly |
+| Generic skills | Role-specific keywords |
+
+---
+
+## Skills Demonstrated
+
+- Resume Strategy
+- Career Branding
+- ATS Optimisation
+- Copywriting
+- Professional Writing
