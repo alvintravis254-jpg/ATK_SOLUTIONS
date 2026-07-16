@@ -39,17 +39,19 @@ End result was his CV moved from describing a responsibility to one that marks h
 
 Currently, he has a full time remote job. 
 
-# Case Study 01
+# Helping a Marketing Student Stand Out for an Internship Application(s)
+
 
 ## Objective
 
-Transform a generic student CV into an interview-ready marketing resume.
+Transforming a generic student CV into an interview-ready data analyst resume.
 
 ---
 
 ## Target Role
 
-Marketing Internship
+Remote AI Data Annotation
+
 
 ---
 
@@ -78,13 +80,13 @@ I focused on:
 
 # Original Submission
 
-(original-cv.pdf)
+![Original Submission](Original.png)
 
 ---
 
 # Interview-Ready Version
 
-(interview-ready-cv.pdf)
+![Interview-Ready](InterviewReady.png)
 
 ---
 
