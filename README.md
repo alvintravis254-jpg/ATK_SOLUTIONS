@@ -86,7 +86,7 @@ I focused on:
 
 # Interview-Ready Version
 
-![Interview Ready](InterviewReady.png)
+![Interview Ready](Interview Ready.png)
 
 ---
 
