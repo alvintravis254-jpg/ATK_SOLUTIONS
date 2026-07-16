@@ -92,19 +92,28 @@ I focused on:
 
 ## Key Improvements
 
-| Before | After |
+| Original | Interview Ready |
 |---------|--------|
-| Responsibilities | Achievements |
+| Stating Responsibilities | Relevant Skills & Competencies |
 | Weak summary | Professional positioning |
 | Basic formatting | ATS-friendly |
 | Generic skills | Role-specific keywords |
 
 ---
 
-## Skills Demonstrated
+## Professional Value Package
 
 - Resume Strategy
 - Career Branding
 - ATS Optimisation
-- Copywriting
+- Skills Optimization
 - Professional Writing
+- Tailored to one job
+
+---
+
+## Contact directory
+
+Phone: +254710283834
+
+Gmail: alvintravis257@gmail.com
